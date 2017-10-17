@@ -1,4 +1,4 @@
-# HumbleBundleCodingChallenge
+# Humble Bundle Coding Challenge
 
 This is a script that takes in a file containing 3 columns:
 
